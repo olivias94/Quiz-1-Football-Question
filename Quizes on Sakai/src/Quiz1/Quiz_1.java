@@ -6,6 +6,8 @@ public class Quiz_1 {
 
 	public static void main(String[] args) {
 		
+		//Football Question for Quiz 1
+		
 		Scanner input1 = new Scanner(System.in);
 		System.out.println("Enter the number of touchdowns for your player: ");
 		double TD = input1.nextDouble();
