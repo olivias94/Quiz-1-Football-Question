@@ -8,6 +8,9 @@ public class Quiz_1 {
 		
 		//Football Question for Quiz 1
 		
+		git remote add origin https://github.com/olivias94/Quiz-1-Football-Question.git
+		git push -u origin master
+		
 		Scanner input1 = new Scanner(System.in);
 		System.out.println("Enter the number of touchdowns for your player: ");
 		double TD = input1.nextDouble();
